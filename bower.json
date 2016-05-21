@@ -1,0 +1,25 @@
+{
+  "name": "manage_employee_apps",
+  "authors": [
+    "ToanNguyen <nmt0504@gmail.com>"
+  ],
+  "description": "Management Application For Company",
+  "main": "",
+  "keywords": [
+    "manage_employee"
+  ],
+  "license": "MIT",
+  "homepage": "alphamanage.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}

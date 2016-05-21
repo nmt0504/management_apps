@@ -1,0 +1,9 @@
+*:not(.outline) { 
+  outline: none;
+}
+*:not(.img-rounded) { 
+  border-radius: 0;
+}
+ul li {
+	margin: 0px;
+}
